@@ -20,6 +20,9 @@ namespace NetTcpUdpTool
         {
             InitializeComponent();
 
+            
+            System.Windows.Forms.Control.CheckForIllegalCrossThreadCalls = false;//设置该属性 为false
+
             netManager = NetManager.GetInstance();
             netManager.SetOnNetErrorListener(OnNetErrorListener);
             netManager.SetOnNetRecvListener(OnNetRecvListener);

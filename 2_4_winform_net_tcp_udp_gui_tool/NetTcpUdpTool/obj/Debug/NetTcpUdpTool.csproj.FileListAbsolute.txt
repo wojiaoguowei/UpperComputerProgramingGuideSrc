@@ -8,3 +8,12 @@ C:\Users\robert\source\repos\NetTcpUdpTool\NetTcpUdpTool\obj\Debug\NetTcpUdpTool
 C:\Users\robert\source\repos\NetTcpUdpTool\NetTcpUdpTool\obj\Debug\NetTcpUdpTool.exe
 C:\Users\robert\source\repos\NetTcpUdpTool\NetTcpUdpTool\obj\Debug\NetTcpUdpTool.pdb
 C:\Users\robert\source\repos\NetTcpUdpTool\NetTcpUdpTool\obj\Debug\NetTcpUdpTool.Form1.resources
+D:\study\c#\test\UpperComputerProgramingGuideSrc\2_4_winform_net_tcp_udp_gui_tool\NetTcpUdpTool\bin\Debug\NetTcpUdpTool.exe.config
+D:\study\c#\test\UpperComputerProgramingGuideSrc\2_4_winform_net_tcp_udp_gui_tool\NetTcpUdpTool\bin\Debug\NetTcpUdpTool.exe
+D:\study\c#\test\UpperComputerProgramingGuideSrc\2_4_winform_net_tcp_udp_gui_tool\NetTcpUdpTool\bin\Debug\NetTcpUdpTool.pdb
+D:\study\c#\test\UpperComputerProgramingGuideSrc\2_4_winform_net_tcp_udp_gui_tool\NetTcpUdpTool\obj\Debug\NetTcpUdpTool.Form1.resources
+D:\study\c#\test\UpperComputerProgramingGuideSrc\2_4_winform_net_tcp_udp_gui_tool\NetTcpUdpTool\obj\Debug\NetTcpUdpTool.Properties.Resources.resources
+D:\study\c#\test\UpperComputerProgramingGuideSrc\2_4_winform_net_tcp_udp_gui_tool\NetTcpUdpTool\obj\Debug\NetTcpUdpTool.csproj.GenerateResource.cache
+D:\study\c#\test\UpperComputerProgramingGuideSrc\2_4_winform_net_tcp_udp_gui_tool\NetTcpUdpTool\obj\Debug\NetTcpUdpTool.csproj.CoreCompileInputs.cache
+D:\study\c#\test\UpperComputerProgramingGuideSrc\2_4_winform_net_tcp_udp_gui_tool\NetTcpUdpTool\obj\Debug\NetTcpUdpTool.exe
+D:\study\c#\test\UpperComputerProgramingGuideSrc\2_4_winform_net_tcp_udp_gui_tool\NetTcpUdpTool\obj\Debug\NetTcpUdpTool.pdb
