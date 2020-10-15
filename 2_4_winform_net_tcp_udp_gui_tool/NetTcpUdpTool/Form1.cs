@@ -208,6 +208,7 @@ namespace NetTcpUdpTool
             {
                 BeginInvoke(new MethodInvoker(delegate
                 {
+                    //ui线程内执行
                     Encoding encodingGB2312 = Encoding.GetEncoding("gb2312");
                     Char[] c_data = encodingGB2312.GetChars(data); //Encoding.ASCII.GetChars(data);
                     string str = new String(c_data);
